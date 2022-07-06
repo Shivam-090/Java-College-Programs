@@ -1,0 +1,7 @@
+
+Serial Number 				Name 				CGPA 				Grade
+	 1				Shivam				9.0				A
+Serial Number 				Name 				CGPA 				Grade
+	 2				Shreya				10.0				A
+Serial Number 				Name 				CGPA 				Grade
+	 3				Pulkit				8.0				B
